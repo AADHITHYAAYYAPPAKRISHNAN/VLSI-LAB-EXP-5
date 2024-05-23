@@ -78,8 +78,7 @@ endmodule
 ```
 
 **OUTPUT:**
-
-![322197893-5a093168-10f6-4f6c-b4f7-cdfa69e883d4](https://github.com/Aravind00033/VLSI-LAB-EXP-5/assets/160571380/3d7fc05f-4b32-4413-8ff0-e7609bfa36db)
+![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-5/assets/159053561/23ddc5c7-08a4-4cf7-b6ea-200eabf1956c)
 
 
 **RESULT:**
